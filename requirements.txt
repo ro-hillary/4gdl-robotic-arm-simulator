@@ -1,0 +1,6 @@
+numpy
+spatialmath
+roboticstoolbox
+matplotlib
+werkzeug
+cx_Freeze
